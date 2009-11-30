@@ -1,0 +1,1 @@
+A fork of the lzf implementation from the h2database with the aim of making it compatible with the command-line tools. Once that is achieved, we'll submit the changes back to the project if they're interested or create a permanent home elsewhere, if they are not.
